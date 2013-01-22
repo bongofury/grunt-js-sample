@@ -1,0 +1,29 @@
+{
+  "name": "grunt-jquery-test",
+  "title": "Grunt jQuery Test",
+  "description": "Beginning sample proj.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bongofury/grunt-jquery-test",
+  "author": {
+    "name": "bongofury",
+    "email": "edotesi@gmail.com",
+    "url": "www.edoardobianchi.it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bongofury/grunt-jquery-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bongofury/grunt-jquery-test/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bongofury/grunt-jquery-test/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}

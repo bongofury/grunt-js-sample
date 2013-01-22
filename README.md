@@ -28,3 +28,8 @@ _(Coming soon)_
 
 ## Release History
 _(Nothing yet)_
+=======
+grunt-js-sample
+===============
+
+Just a sample init proj via grunt 

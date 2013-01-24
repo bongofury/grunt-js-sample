@@ -1,6 +1,6 @@
-# Grunt jQuery Test
+# Grunt jQuery Test [![Build Status](https://travis-ci.org/bongofury/grunt-js-sample.png?branch=master)](https://travis-ci.org/bongofury/grunt-js-sample)
 
-Beginning sample proj.
+Beginning sample proj - Just a sample init proj via grunt
 
 ## Getting Started
 Download the [production version][min] or the [development version][max].
@@ -28,8 +28,5 @@ _(Coming soon)_
 
 ## Release History
 _(Nothing yet)_
-=======
-grunt-js-sample
-===============
 
-Just a sample init proj via grunt 
+

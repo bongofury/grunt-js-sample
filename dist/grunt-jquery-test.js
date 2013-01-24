@@ -1,4 +1,4 @@
-/*! Grunt jQuery Test - v0.1.0 - 2013-01-22
+/*! Grunt jQuery Test - v0.1.0 - 2013-01-24
 * https://github.com/bongofury/grunt-jquery-test
 * Copyright (c) 2013 bongofury; Licensed MIT */
 
